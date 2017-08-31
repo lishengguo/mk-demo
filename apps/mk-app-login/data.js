@@ -122,7 +122,7 @@ export function getMeta() {
 export function getInitState() {
 	return {
 		data: {
-			form: { user: '13334445556', password: '1' },
+			form: { mobile: '13334445556', password: '1' },
 			other: {
 				error: {}
 			}
