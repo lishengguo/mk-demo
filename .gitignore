@@ -5,7 +5,7 @@ npm-debug.log*
 .lock-wscript
 node_modules
 .npm
-.dist
+dist
 .vscode
 jsconfig.json
 package-lock.json
